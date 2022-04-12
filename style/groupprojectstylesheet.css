@@ -204,9 +204,21 @@ table{
     margin-left: 300px;
 }
 
-.contentFormatting{
-    color:white;
+#contentFormatting1{
+    color: #f2f2f2;
     width:55%;
+    float:right
+}
+
+#contentFormatting2{
+    color: #f2f2f2;
+    width:50%;
+    float:right
+}
+
+#contentFormatting3{
+    color: #f2f2f2;
+    width:45%;
     float:right
 }
 
