@@ -1,4 +1,3 @@
-
 /** Jake McMillan 2108868 **/
 
 /** General **/
@@ -10,14 +9,14 @@
 }
 
 nav{
-    color: white;
-    background-color: black;
+    color: #f2f2f2;
+    background-color: #0a0a0a;
     border-style: solid;
     height:50px;
 }
 
 .navBarElements{
-    color: white;
+    color: #f2f2f2;
 
     text-align: center;
     font-size: 35px;
@@ -35,7 +34,7 @@ body{
     margin: 0px;
     padding: 0px;
     min-height: 750px;
-    min-width: 1380px;
+    min-width: 1380px
 }
 
 .title{
@@ -45,8 +44,8 @@ body{
 footer{
     position:fixed;
 
-    color:white;
-    background-color: black;
+    color:#f2f2f2;
+    background-color: #0a0a0a;
 
     text-align: center;
 
@@ -61,8 +60,8 @@ footer{
 /** Events Page **/
 
 #leftContainer{
-    color: white;
-    background-color: black;
+    color: #f2f2f2;
+    background-color: #0a0a0a;
 
     border-style: solid;
     height: 500px;
@@ -76,13 +75,14 @@ table{
 }
 
 .tableText{
-    color: white;
+    color: #f2f2f2;
     font-size: 22px;
 }
 
 .leftContainerText{
-    color:white;
+    color: #f2f2f2;
 
+    text-align: center;
     font-size: 14px;
     list-style: none;
 
@@ -96,8 +96,8 @@ table{
 }
 
 #month{
-    color:white;
-    background-color: black;
+    color: #f2f2f2;
+    background-color: #0a0a0a;
 
     text-align: center;
 
@@ -148,8 +148,8 @@ table{
 /** Design Page **/
 
 .blackBar{
-    color: white;
-    background-color: black;
+    color: #f2f2f2;
+    background-color: #0a0a0a;
 
     text-align: left;
 
@@ -163,7 +163,7 @@ table{
 }
 
 #barContent1{
-    color: white;
+    color: #f2f2f2;
 
     border-style: solid;
     height:170px;
@@ -177,7 +177,7 @@ table{
 }
 
 #barContent2{
-    color: white;
+    color: #f2f2f2;
 
     border-style: solid;
     height:170px;
@@ -191,7 +191,7 @@ table{
 }
 
 #barContent3{
-    color: white;
+    color: #f2f2f2;
 
     border-style: solid;
     height:170px;
@@ -223,7 +223,9 @@ table{
 }
 
 .titleText{
+    text-align: center;
     border-style: solid;
+    border-top: 0px;
     width:250px;
 }
 
