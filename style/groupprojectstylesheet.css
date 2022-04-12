@@ -60,8 +60,8 @@ footer{
 /** Events Page **/
 
 #leftContainer{
-    color: #black;
-    background-color: #grey;
+    color: #f2f2f2;
+    background-color: #0a0a0a;
 
     border-style: solid;
     height: 500px;
@@ -75,12 +75,12 @@ table{
 }
 
 .tableText{
-    color: #black;
+    color: #f2f2f2;
     font-size: 22px;
 }
 
 .leftContainerText{
-    color: #black;
+    color: #f2f2f2;
 
     text-align: center;
     font-size: 14px;
@@ -96,8 +96,8 @@ table{
 }
 
 #month{
-    color: #black;
-    background-color: #grey;
+    color: #f2f2f2;
+    background-color: #0a0a0a;
 
     text-align: center;
 
